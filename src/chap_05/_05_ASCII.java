@@ -7,5 +7,9 @@ public class _05_ASCII {
         char c ='A';
         System.out.println(c);
         System.out.println((int)c);
+
+        c++;
+        System.out.println(c);
+        System.out.println((int)c);
     }
 }

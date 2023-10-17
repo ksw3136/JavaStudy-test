@@ -5,15 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c366f91-24b6-49b7-9b75-ff7f080bb852" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap_05/_06_Quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_06/_01_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_06/_02_Parameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_06/_03_Return.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_06/_04_ParaneterAndReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_06/_05_overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_06/_06_whenToUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_06/_08_MainMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_06/_09_Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/BlackBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/BlackBoxRefurbish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_01_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_02_InstaceVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_03_ClassVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_04_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_05_methodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_06_ClassMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_07_This.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_08_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_09_GetterSetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_07/_10_AccessModifier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +53,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -63,6 +67,11 @@
       <updated>1696777221705</updated>
       <workItem from="1696777222699" duration="669000" />
       <workItem from="1696842600255" duration="5177000" />
+      <workItem from="1696850462180" duration="3900000" />
+      <workItem from="1696926836279" duration="2205000" />
+      <workItem from="1696929050155" duration="261000" />
+      <workItem from="1696929359291" duration="16000" />
+      <workItem from="1696929380620" duration="1244000" />
     </task>
     <servers />
   </component>
